@@ -1,0 +1,68 @@
+.home-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-title{
+    color: rgb(233, 59, 94);
+    font-weight: bolder;
+}
+
+.home-right img{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+.btn{
+    font-size: 1.5rem;
+    background-color: crimson;
+    border: none;
+    color: white;
+    padding: 15px;
+}
+
+.btn:hover{
+    background-color: rgb(233, 59, 94);
+    cursor: pointer;
+
+}
+
+.reviews{
+    margin-right: 60%;
+    margin-top: 25px;
+}
+
+.review-btn{
+   margin-right: 70%;
+   background-color: crimson;
+   border: none;
+   padding: 8px;
+   color: white;
+   margin-bottom: 25px;
+   margin-top: 10px;
+}
+
+.home-review{
+  margin-left: 40%;
+  
+}
+
+.first-review{
+    border: 1px solid gray;
+    margin-left: 10px;
+    padding: 20px;
+    width: 200px;
+    height: 110px;
+    text-align: center;
+}
+
+.review-btn:hover{
+    background-color: rgb(233, 59, 94);
+    cursor: pointer;
+}
+
+.customer-review{
+    margin-right: 70%;
+}
