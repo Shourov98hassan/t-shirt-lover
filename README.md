@@ -5,4 +5,4 @@
 * no loading occurs here
 * not found link also added here
 
-Go [here](https://github.com/ProgrammingHero1/product-analysis-website)
+Go [here](https://marvelous-stroopwafel-c54672.netlify.app/)
